@@ -1,16 +1,9 @@
-## Flask Sandbox
+# Projects
+This repository contains a portfolio of projects that I have done as part of a Master of Science in Business Analytics course and for my own self-learning. 
 
-A sandbox application with Flask, SQLAlchemy and PostgreSQL
 
-### Usage
 
-- Install Git Bash
-- Open Git Bash, go to the directory containing this project, and run `./deploy.sh`
-- A directory called `.venv` will be created. If there is any error, delete this folder and run `./deploy.sh` again
-
-### Requirements
-
-- Python 3
-- Flask
-- Flask-SQLAlchemy
-- flask-WTF
+### Project 2 - Web Application Database
+- Developed a web application using Heroku, Flask and Python 
+- Launched a database on the web application using SQLAlchemy
+- Developed filters using SQL to enable users to conduct analytical queries on the web application 
