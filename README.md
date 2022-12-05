@@ -1,22 +1,16 @@
-# Portfolio
-This repository consists of a portfolio of data science projects that I have worked on as part of a Master of Science in Business Analytics course and for my own self-learning. As part of the degree, I took courses in Data Management and Warehousing, Operations Research and Analytics, Foundations in Business Analytics and Analytics in Managerial Economics. 
+## Flask Sandbox
 
+A sandbox application with Flask, SQLAlchemy and PostgreSQL
 
-### Project 1: Fraud Detection 
-<ul>
-  <li>Trained machine learning models for fraud detection</li>
-  <li>Deployed various  </li>
-  <li>Deployed various  </li>
-  <li>Top predictors found were: /li>
-  <li>Fourth item</li>
-</ul>
+### Usage
 
+- Install Git Bash
+- Open Git Bash, go to the directory containing this project, and run `./deploy.sh`
+- A directory called `.venv` will be created. If there is any error, delete this folder and run `./deploy.sh` again
 
+### Requirements
 
-### Project 2: Web application Database  
-<ul>
-  <li>Developed a web application using Flask, Heroku and Python </li>
-  <li>Connected the web application to a database using SQLAlchemy </li>
-  <li>Built filters to enable users to conduct analytical queries on the web application</li>
-</ul>
-
+- Python 3
+- Flask
+- Flask-SQLAlchemy
+- flask-WTF
