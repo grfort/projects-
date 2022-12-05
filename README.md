@@ -1,5 +1,6 @@
-# projects
-Data Science projects 
+# Portfolio
+This repository consist of a portfolio of data science projects that I have worked on as part of a Master of Science in Business Analytics course and also for my own self-learning. 
+
 
 
 ### Project 1: Data Science Salary Estimator
