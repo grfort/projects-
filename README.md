@@ -11,7 +11,8 @@ This repository contains a portfolio of projects that I have done as part of a M
 - Top predictors of fraud are fault, policy type and vehicle category 
 
 
-### [Project 2 - Effect of Dodd-Frank Act on Trading Asset Ratios (https://github.com/gracech5/projects-/tree/main/Difference%20in%20Difference%20%26%20Propensity%20Score%20Model)
+### [Project 2 - Effect of Dodd-Frank Act on Trading Asset Ratios](https://github.com/gracech5/projects-/tree/main/Difference%20in%20Difference%20%26%20Propensity%20Score%20Model)
+
 - Estimated the effect of the Dodd-Frank Act on affected banks' trading asset ratio 
 - Used a Difference-in-Difference model to estimate the impact of the regulation 
 - Implemented a Propensity Score model to check for robustness of results 
