@@ -17,7 +17,7 @@ This repository contains a portfolio of projects that I have done as part of a M
 - Implemented a propensity score model to check for robustness of results 
 
 
-### Project 3 - Multi-Armed Bandits 
+### [Project 3 - Multi-Armed Bandits](https://github.com/gracech5/projects-/tree/main/Multi-Armed%20Bandits)
 <img width="476" alt="image" src="https://user-images.githubusercontent.com/119866759/205825672-6f568851-4642-4131-967a-e8965ac9a48e.png">
 
 - Developed Python scripts to implement ɛ-Greedy and UCB1 algorithms
