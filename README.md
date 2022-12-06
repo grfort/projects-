@@ -5,7 +5,7 @@ This repository contains a portfolio of projects that I have done as part of a M
 ### [Project 1 - Fraud Detection](https://github.com/gracech5/projects-/tree/main/Fraud%20Detection) 
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/119866759/205824811-3eb89ec7-89fc-4bc2-981a-3bb017352add.png">
 
-- Trained machine learning models to detect car insurance fraud 
+- Trained machine learning models to detect vehicle insurance claim fraud
 - Key models implemented include: Linear SVM, XGBoost and Balanced Random Forest Models
 - Handled imbalanced data using oversampling and undersampling methods such as SMOTE
 - Top predictors of fraud are fault, policy type and vehicle category 
