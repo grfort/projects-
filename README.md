@@ -2,7 +2,7 @@
 This repository contains a portfolio of projects that I have done as part of a Master of Science in Business Analytics course and for my own self-learning. 
 
 
-### Project 1 - Fraud Detection 
+### [Project 1 - Fraud Detection](https://github.com/gracech5/projects-/tree/main/Fraud%20Detection) 
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/119866759/205824811-3eb89ec7-89fc-4bc2-981a-3bb017352add.png">
 
 - Trained machine learning models to detect car insurance fraud 
