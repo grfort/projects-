@@ -3,6 +3,8 @@ This repository contains a portfolio of projects that I have done as part of a M
 
 
 ### Project 1 - Fraud Detection 
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/119866759/205824811-3eb89ec7-89fc-4bc2-981a-3bb017352add.png">
+
 - Trained machine learning models to detect car insurance fraud 
 - Key models implemented include: Linear SVM, XGBoost and Balanced Random Forest Models
 - Handled imbalanced data using oversampling and undersampling methods such as SMOTE
@@ -11,16 +13,20 @@ This repository contains a portfolio of projects that I have done as part of a M
 
 ### Project 2 - Effect of Dodd-Frank Act on Trading Asset Ratios
 - Estimated the effect of the Dodd-Frank Act on affected banks' trading asset ratio 
-- Used a difference-in-difference model to estimate the impact
+- Used a difference-in-difference model to estimate the impact of the regulation 
 - Implemented a propensity score model to check for robustness of results 
 
 
 ### Project 3 - Multi-Armed Bandits 
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/119866759/205825672-6f568851-4642-4131-967a-e8965ac9a48e.png">
+
 - Developed Python scripts to implement ɛ-Greedy and UCB1 algorithms
 - Plotted charts to evaluate the performance of both algorithms using Matplotlib 
 
 
 ### Project 4 - Web Application Database
+<img width="153" alt="image" src="https://user-images.githubusercontent.com/119866759/205826098-2fde8f7e-3c27-4b27-b571-87f610ed2236.png">
+
 - Developed a web application using Heroku, Flask and Python 
 - Launched a database on the web application using SQLAlchemy
 - Developed filters using SQL to enable users to conduct analytical queries on the web application 
