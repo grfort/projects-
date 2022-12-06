@@ -15,8 +15,9 @@ This repository contains a portfolio of projects that I have done as part of a M
 - Implemented a propensity score model to check for robustness of results 
 
 
-### Project 3 - Econs Multi-Armed Bandits 
--
+### Project 3 - Multi-Armed Bandits 
+- Developed Python scripts to implement ɛ-Greedy and UCB1 algorithms
+- Plotted charts to evaluate the performance of both algorithms using Matplotlib 
 
 
 ### Project 4 - Web Application Database
