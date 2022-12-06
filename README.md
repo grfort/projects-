@@ -13,8 +13,8 @@ This repository contains a portfolio of projects that I have done as part of a M
 
 ### Project 2 - Effect of Dodd-Frank Act on Trading Asset Ratios
 - Estimated the effect of the Dodd-Frank Act on affected banks' trading asset ratio 
-- Used a difference-in-difference model to estimate the impact of the regulation 
-- Implemented a propensity score model to check for robustness of results 
+- Used a Difference-in-Difference model to estimate the impact of the regulation 
+- Implemented a Propensity Score model to check for robustness of results 
 
 
 ### [Project 3 - Multi-Armed Bandits](https://github.com/gracech5/projects-/tree/main/Multi-Armed%20Bandits)
