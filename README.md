@@ -25,7 +25,7 @@ This repository contains a portfolio of projects that I have done as part of a M
 - Plotted charts to evaluate the performance of both algorithms using Matplotlib 
 
 
-### Project 4 - Web Application Database
+### [Project 4 - Web Application Database](https://github.com/gracech5/projects-/tree/master)
 <img width="153" alt="image" src="https://user-images.githubusercontent.com/119866759/205826098-2fde8f7e-3c27-4b27-b571-87f610ed2236.png">
 
 - Developed a web application using Heroku, Flask and Python 
